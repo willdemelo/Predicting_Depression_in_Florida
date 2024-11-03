@@ -5,7 +5,9 @@ I divide rates of depression in my testing data into quartiles and use multiple 
 
 To reproduce my code, please use my Jupyter notebook. Data for all of my variables can be found on SimplyAnalytics, utilizing the variables outlined in the codebook I've included in this repository.
 
-## Packages
+## Resources
+- **Editor Used:**  Jupyter Notebook
+- **Python Version:** Python 3.11.5
 ### Sci-Kit Learn
   Sci-Kit Learn provides all of the necessary models I need to implement my analysis. I need Sci-Kit Learn's packages for these analyses:
   - Logistic Regresssion
